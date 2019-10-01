@@ -16023,6 +16023,7 @@ Mário Baltazar
 - [Kevin Huber](https://github.com/itskev)
 - [Monio](https://github.com/monio)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
+- [aditya singh](https://github.com/Aditya2603)
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
@@ -16285,4 +16286,3 @@ Mário Baltazar
 - [MAYUR SONI](https://github.com//mayurssoni)
 - [R.Kling](https://github.com//bugfi5h)
 - [pikadev](https://github.com/pikadev)
-- [aditya singh](https://github.com/Aditya2603)
